@@ -36,8 +36,8 @@ Setup for Running the Project
 ---
 ```   
 1. Open the project CAB
-2. Run python file 'run.py'
-    -> python run.py
+2. Run python file 'SqlConnection.py'
+    -> python SqlConnection.py
 
 ```
 
